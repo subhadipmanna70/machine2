@@ -1,0 +1,15 @@
+M dp DgvmdqOdpr(code ceaser)-I am AdrianLamo
+V nz Nabalzbhf(Chiffre ROT-13)-I am Anonymous
+x 2> z6G:?|:E?:4<(Chiffre ROT-47)-I am KevinMitnick
+
+
+
+ h2.jpg->(stenography)-> 000000000000000000000000000000110010000010000000000010000000000000000000000010000000000000000000000000000000011011011011001111010010010001001001100010001001001100000000000000000000000000000000000100100011000000000000000000000000000000100010000000000000000000000000000000000000000100011000000000000000000000000000100000000000000000000000000000000000100000000000000000000000000000000000100010001001001001100011001001001001001001001100011000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000100001001001001001001001001001001001001001001001001100100000000000000000000000100->(decode in binaryfuck)->CallMyValue@007->ZIP1(password)
+
+ h4.jpg->(stenography)-> ++++++++++[>+>+++>+++++++>++++++++++<<<<-]>>>-----.>-.++++++.-----.<+++++++++++++++.>++++++++++++++.---.+.-----------.+++++++++++++.++.+++++.<<++++++.+++++++++++++++++++...(decode into Brainfuck)->AcidProperty$777-> (password of ZIP2)
+ 
+ h5.jpg->(stenography)-> x!p55C6DDo`af]ad]]] ->(decoded in ROT-47 Cipher) ->  IPAddress@127.25... ->(password ZIP3) 
+ 
+ ZIP.1 -> Body -> within <h3> -> Ozrvjtu&Tiboopo ->(ROT1 Cipher)->Nyquist&Shannon(flag value)
+ ZIP.2 -> Body -> within <h3> -> Prg12DxbqflvrqruxFruqyhv -> (Caesar Cipher) -> Mod12AsynchronousCounter(flag code)
+ ZIP.3 -> Body -> within <h3> -> GelNtnvaPunzc -> (ROT-13 Cipher) -> TryAgainChamp
